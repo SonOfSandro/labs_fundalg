@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 4.1)
+project(labs_2 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(lab2.1 lab2.1.c)
+add_executable(lab2.2 lab2.2.c)
+add_executable(lab2.3 lab2.3.c)
+add_executable(lab2.4 lab2.4.c)
+add_executable(lab2.5 lab2.5.c)
+add_executable(lab2.6 lab2.6.c)
+add_executable(lab2.7 lab2.7.c)
+add_executable(lab2.8 lab2.8.c)
+add_executable(lab2.9 lab2.9.c)
+add_executable(lab2.10 lab2.10.c)
